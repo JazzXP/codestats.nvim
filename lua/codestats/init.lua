@@ -1,4 +1,4 @@
-local VERSION = '0.0.1'
+local VERSION = '0.0.2'
 
 local LEVEL_FACTOR = 0.025
 
